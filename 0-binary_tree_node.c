@@ -4,6 +4,7 @@
  * binary_tree_node - creates a binary tree node
  * @parent: parent of the created binary tree
  * @value: value of the node
+ * Return: a pointer to the new node, or NULL on failure
  */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 {
