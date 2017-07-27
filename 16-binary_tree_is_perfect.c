@@ -24,7 +24,7 @@ int tree_height(const binary_tree_t *tree)
 }
 
 /**
- * binary_tree_balance - finds balance factor of tree (height left - height right)
+ * binary_tree_balance - finds balance factor of tree (h left - h right)
  * @tree: root of tree
  *
  * Return: balance of tree from root
